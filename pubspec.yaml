@@ -1,8 +1,8 @@
 name: flutter_luna_converter
 description: A new Flutter package.
 version: 0.0.1
-author:
-homepage:
+author: GoNex
+homepage: https://gonex.net
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
